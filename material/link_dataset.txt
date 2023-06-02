@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/jobspikr/50000-job-board-record-from-reed-uk
+https://app.surgehq.ai/datasets/resume-categorization#_gl=1*zsoidp*_gcl_au*MTcxODk4NzY2MS4xNjg1MzY5MTkw
+https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
