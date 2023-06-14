@@ -6,7 +6,7 @@
 - Ilham Pandu Prasetyo M207DSX0558
 
 # Dataset
-We collected our dataset about various resume word from kaggle. We got 19.832 skin face disease resume word string data in total and there is the distribution.
+We collected our dataset about various resume word from kaggle. We got 19.832 clean extracted resume/CV data in total and there is the distribution.
 1. business analyst : 1800
 2. java developer : 1800
 3. data analyst : 1800
@@ -31,4 +31,4 @@ We collected our dataset about various resume word from kaggle. We got 19.832 sk
 22. sql developer : 272
 
 # Method
-To develop this machine learning model we use Natural Language Processing (NLP) algorithm using tokenizer. We also use google collab notebook and some python library in this project, including tensorflow, matplotib, numpy, keras, pytesseract etc. After training model we saved model h5 and convert it into onnx model.
+To develop this machine learning model we use Natural Language Processing (NLP) algorithm using tokenizer and for the labels we use one-hot encoding techniques. We also use google collab notebook and some python library in this project, including tensorflow, matplotib, numpy, keras, pytesseract etc. After training model we saved model h5 and convert it into onnx model.
